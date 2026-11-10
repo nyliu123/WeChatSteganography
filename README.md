@@ -6,8 +6,8 @@ WeSteg 把可打印的 ASCII 明文转换为不可见字符，可以将它们放
 
 | 平台                   | 本地发布文件                                                            | 使用方式                                                           |
 | ---------------------- | ----------------------------------------------------------------------- | ------------------------------------------------------------------ |
-| Windows x64            | [WeSteg Portable v2.0.3](bin/Release/2.0.3/win-x64-portable/WeSteg.exe) | 双击 `WeSteg.exe`。单文件约 155 MiB，内置 .NET 8 Desktop Runtime。 |
-| Android 6.0 或更新版本 | [WeSteg v2.0.2 已签名 APK](bin/Release/2.0.2/android/WeSteg-2.0.2.apk)  | 在手机上打开 APK 并安装。                                          |
+| Windows x64            | ./bin/Release/2.0.3/win-x64-portable/WeSteg.exe | 双击 `WeSteg.exe`。单文件约 155 MiB，内置 .NET 8 Desktop Runtime。 |
+| Android 6.0 或更新版本 | ./bin/Release/2.0.2/android/WeSteg-2.0.2.apk  | 在手机上打开 APK 并安装。                                          |
 
 发布文件位于本地 `bin/`。如果手头只有源码，可以按下方步骤自行构建。
 
